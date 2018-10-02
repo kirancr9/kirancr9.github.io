@@ -2,7 +2,7 @@ body{
     font:15px/1.5 Arial,Helvetica,sans-serif;
     padding: 0;
     margin: 0;
-    background-color: #F7BE19;
+    background-color: #FFD61A;
 }
 .container{
     width:80%;
@@ -23,7 +23,7 @@ ul{
 
 }
 header{
-    background: #F7BE19;
+    background: #2BC1FF;
     color: #ffffff;
     padding-top: 30px;
     min-height: 70px;
