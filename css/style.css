@@ -131,3 +131,7 @@ footer{
     text-align: center;
     
 }
+
+section {
+    min-height: 100vh; /* minus the height of the footer */
+}
